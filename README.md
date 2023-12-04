@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JulioDEVReis
+- 👋 Hi, I’m @JulioDEVReis - Python Developer
 - 👀 I’m interested in Python Projects
 - 🌱 I’m currently studying news Frameworks, like Flet, for example...
 - 💞️ I’m looking to collaborate on Python Projects
