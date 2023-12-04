@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulioDEVReis
 - 👀 I’m interested in Python Projects
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studying news Frameworks, like Flet, for example...
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me julio.crr@gmail.com
 
