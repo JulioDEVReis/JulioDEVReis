@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @JulioDEVReis - Python Developer
 - 👀 I’m interested in Python Projects
-- 🌱 I’m currently studying news Frameworks, like Flet, for example...
+- 🌱 I’m currently studying Kotlin and Data Science...
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me julio.crr@gmail.com
 
-<!---
-JulioDEVReis/JulioDEVReis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a desktop and web application developer with a main specialization in Python. My training in Python was at Tokio School, based in Lisbon. Since the beginning of 2023, I have been working as a freelancer offering solutions for small and medium-sized companies and independent professionals, with task automation and also for asset and people management. My goal for 2024 is to continue offering increasingly efficient solutions to improve the productivity of employees and managers.
