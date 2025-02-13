@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulioDEVReis - Python Developer
 - 👀 I’m interested in Python Projects
-- 🌱 I’m currently studying Kotlin and Data Science...
+- 🌱 I’m currently studying Data Science, AI...
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me julio.crr@gmail.com
 
