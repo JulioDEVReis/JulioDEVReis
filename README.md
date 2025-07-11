@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @JulioDEVReis - Python Developer
-- 👀 I’m interested in Python Projects
-- 🌱 I’m currently studying Data Science, AI...
-- 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me julio.crr@gmail.com
+# 👋 Hi there, I'm @JulioDEVReis
 
-I'm a desktop and web application developer with a main specialization in Python. My training in Python was at Tokio School, based in Lisbon. Since the beginning of 2023, I have been working as a freelancer offering solutions for small and medium-sized companies and independent professionals, with task automation and also for asset and people management. My goal for 2025 is to continue offering increasingly efficient solutions to improve the productivity of employees and managers.
+💻 Fullstack Developer · Python · Django · React · TypeScript  
+📍 Based in Portugal · Available for remote opportunities  
+
+## 🚀 About Me
+
+I am a developer with 2 years of experience in Python, developing web solutions, Softwares and APIs. 
+I specialize in building backend systems using **Python, Django and PostgreSQL**, and dynamic frontends with **React + Vite + TypeScript**.
+
+In 2025, my goal is to continue developing high-impact digital solutions.
+
+### 🔧 Recent Experience
+- **Webtech87 (Internship)** – Worked on real-world Django + React projects, from backend logic to frontend integration.
+- **Freelance Developer** – Delivered custom solutions, dashboards, and web tools for small businesses and professionals.
+
+### 📚 Currently Learning
+- Data Science & Artificial Intelligence (Python, Pandas, Scikit-learn, etc.)
+
+### 🤝 Let's Connect!
+- 📧 julio.crr@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/julio-reis-dev)
